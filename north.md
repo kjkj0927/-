@@ -54,9 +54,9 @@
 
 ---
 
-# 2. 천계안동찜닭
+# 2. 천계
 
-<img src="images/jjimdak.jpg" width="500">
+![천계](./jjimdak.jpg)
 
 | 정보 | 내용 |
 |-----|-----|
@@ -83,7 +83,7 @@
 
 # 3. 돈가스반상
 
-<img src="images/donkatsu.jpg" width="500">
+![돈반](./donban.jpg)
 
 | 정보 | 내용 |
 |-----|-----|
@@ -110,7 +110,7 @@
 
 # 4. 가향미 마라탕
 
-<img src="images/malatang.jpg" width="500">
+![가향미](./maratang.jpg)
 
 | 정보 | 내용 |
 |-----|-----|
@@ -136,7 +136,7 @@
 
 # 5. 사군자민속촌
 
-<img src="images/sagunja.jpg" width="500">
+![사군자](./sagunja.jpg)
 
 | 정보 | 내용 |
 |-----|-----|
