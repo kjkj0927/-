@@ -23,7 +23,7 @@
 ## 1. 초밥집 🍣
 > **💬 한줄평:** "쪽문에서 신선한 초밥이 생각날 때 가장 먼저 떠오르는 곳!"
 
-![초밥집](images/sushi.jpg)
+![초밥집](https://mblogthumb-phinf.pstatic.net/MjAyMzAyMDVfMTU0/MDAxNjc1NTMzMDIwMjE2.SJqcQMFQ5K5_jZyXd8HYkmnSbhvDgPy48A6UhzFGpaog.mc-_iTcbmkVy0-TgMkQ5RgsBb7tbuXdzjdvyDib-Id0g.JPEG.dul0308/IMG_0010.jpg?type=w966)
 
 | 분류 | 위치 | 영업시간 | 브레이크타임 | 휴무 |
 | :--- | :--- | :--- | :--- | :--- |
