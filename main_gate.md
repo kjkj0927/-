@@ -23,7 +23,7 @@
 ### 1. 황제뒷고기🥩
 
 ![황제뒷고기1](https://postfiles.pstatic.net/MjAyNDAxMTFfMTQx/MDAxNzA0OTM2MTcxMzQy.p_H_HvLiYr5M91coPN4Rv3EMmCndR-U50o2G0QcmKngg.d22K6t4oEvZaSTj_3UG1X7C69bCIBIBhHbLTBCd8KEQg.JPEG.kmthe6329/SE-3df3a275-30cd-4753-bfcb-0f9654f927fe.jpg?type=w3840)
-![황제뒷고기2](https://postfiles.pstatic.net/MjAyNDAxMTFfMTQx/MDAxNzA0OTM2MTcxMzQy.p_H_HvLiYr5M91coPN4Rv3EMmCndR-U50o2G0QcmKngg.d22K6t4oEvZaSTj_3UG1X7C69bCIBIBhHbLTBCd8KEQg.JPEG.kmthe6329/SE-3df3a275-30cd-4753-bfcb-0f9654f927fe.jpg?type=w3840)
+![황제뒷고기2](https://postfiles.pstatic.net/MjAyNDAxMTFfOSAg/MDAxNzA0OTM2MzA3ODM4.QIuIKD1z5vyi16EFdnHJp-UsNYdkHk1sVlLclADye80g.HYs3XcEbFXCOYzFS6sHB5fLoAJvdcY3ZRP92kB92SSUg.JPEG.kmthe6329/SE-5c0f4420-292c-4d92-8968-77e8c8cf2281.jpg?type=w3840)
 * **주소**: (도로명) 대구 동구 평화로 5, (지번) 대구 동구 신암동 705-17
 * **위치**: 
 * **인기 메뉴**:
