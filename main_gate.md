@@ -60,10 +60,15 @@
 ![냉면당1](https://postfiles.pstatic.net/MjAyNDA0MjVfMzkg/MDAxNzE0MDUxMzQzMTg4.r66cik7shoH0ItsppCOv_g497xSJbSLTZH50bVYVcHkg.qZ6DVy_in4J2aBv0qb3tLrO2A_2qwiqzEnMgBw4GiSUg.JPEG/20240419_123802.jpg?type=w3840)
 ![냉면당2](https://postfiles.pstatic.net/MjAyNDA0MjVfMTk5/MDAxNzE0MDUyMDUxMDE4.F7p-lCB8-jNjo0Q6llOQDzwH_ytp3KXGGDDCKBjgwb4g.vgplsveH_6pfSP_uHkzgwiRgcHeZL_IfPYAXGumlNEMg.JPEG/20240419_123815.jpg?type=w3840)
 * **주소**: (도로명) 대구 북구 경대로 29 1층 냉면당, (지번) 대구 북구 대현동 14-12
-* **위치**:
-* **인기 메뉴**:
-* **가격대**:
-* **특징**:
+* **위치**: 경북대 정문 → 신암초 방향
+* **인기 메뉴**: 열무냉면, 물냉면, 로스카츠정식
+* **가격대**: 냉면 약 8,000원 / 카츠 정식 약 10,000원 / 전체 약 8,000 ~ 12,000원
+* **특징**: - 냉면 + 일식 카츠를 함께 즐길 수 있는 맛집
+  - 열무냉면이 대표 메뉴 (깔끔하고 시원한 육수 + 열무 조합)
+  - 냉면 주문 시 군만두 기본 제공
+  - 정식 메뉴 주문 시 공기밥 1회 무료 리필
+  - 웨이팅 중 미리 주문 가능 (회전 효율 좋음)
+
 
 ---
 
