@@ -76,10 +76,13 @@
 
 ![배터지는깐풍기](https://postfiles.pstatic.net/MjAyNjAzMDRfNzkg/MDAxNzcyNTYwNDc5OTY2.BgUAHFiPSZbZDCvtVIH1lx4Wphy133xbCbBbmeMbJ6Ig.CyoWeFhjdamCzmHdc9ZLI_S6rVUnn_PIrY7OUaH5oeYg.JPEG/IMG%EF%BC%BF5822.jpg?type=w3840)
 * **주소**: (도로명) 대구 북구 경대로5길 6, (지번) 대구 북구 대현동 22-13
-* **위치**:
-* **인기 메뉴**:
-* **가격대**:
-* **특징**:
+* **위치**: 마트프라임 경대점 2층, 경북대 정문 옆 골목
+* **인기 메뉴**: 깐풍기 (매운맛/보통맛/순한맛), 김피탕
+* **가격대**: 깐풍기 소 18,000원 / 중 20,000원 / 대 21,000원 / 특대 26,000원
+* **특징**: - 단체 모임 및 회식, 뒷풀이에 적합한 넓은 실내
+  - 셀프바: 팝콘 무한제공, 콘샐러드, 치킨무
+  - 깐풍기: 달콤 새콤 + 중간 매운맛, 적당히 매콤하며 술안주·치밥에 적합
+  - 대학가 답게 가격 대비 양과 퀄리티 우수
 
 ---
 
