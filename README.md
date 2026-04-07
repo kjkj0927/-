@@ -17,7 +17,7 @@
 * [🍕 북문 (North Gate) 맛집 리스트](./north.md)
 * [🌮 텍문 (Tech Gate) 맛집 리스트](./tech_gate.md)
 * [🍔 정문 (Main Gate) 맛집 리스트](./main_gate.md)
-* [🍜 쪽문 (South Gate) 맛집 리스트](./south_gate.md)
+* [🍜 쪽문 (South Gate) 맛집 리스트](./jjok_gate.md)
 
 <img width="594" height="591" alt="경북대 지도" src="https://github.com/user-attachments/assets/0630665c-0919-4ed2-ac9a-a245cd5d9d78" />
 
@@ -32,7 +32,7 @@
 | 조성훈 | 2020115862 | 프로젝트 총괄 및 [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
 | 김수하 | 2023006598 | [북문] 맛집 조사 | [@github-id](https://github.com/github-id) |
 | 최예솔 | 202X... | [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
-| 박정현 | 202X... | [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
+| 박정현 | 2025 | [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
 
 
 ---
