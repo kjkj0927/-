@@ -19,6 +19,8 @@
 * [🍔 정문 (Main Gate) 맛집 리스트](./main_gate.md)
 * [🍜 쪽문 (South Gate) 맛집 리스트](./south_gate.md)
 
+*![경북대 지도] (./knu.jpg)
+
 *(※ 팀원들은 각자 담당한 마크다운 파일 이름이 위 링크의 파일명과 일치하는지 확인해 주세요!)*
 
 ---
@@ -26,11 +28,11 @@
 ## 👥 팀원 소개 및 역할
 | 이름 | 학번 | 담당 구역 | GitHub Profile |
 | :---: | :---: | :--- | :--- |
-| 이름(조장) | 202X... | 프로젝트 총괄 및 [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
-| 이름 | 202X... | [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
-| 이름 | 202X... | [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
-| 이름 | 202X... | [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
-| 이름 | 202X... | [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
+| 조성훈 | 202X... | 프로젝트 총괄 및 [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
+| 김수하 | 2023006598 | [북문] 맛집 조사 | [@github-id](https://github.com/github-id) |
+| 최예솔 | 202X... | [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
+| 박정현 | 202X... | [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
+
 
 ---
 
