@@ -1,6 +1,3 @@
-# 이하 문구는 AI로 생성한 임시 Readme 내용으로, 언제든 수정 가능하며 참고용으로 제작하였습니다.
-
-
 # 🍽️ 경북대학교 출입구별 맛집 지도 (KNU Food Map)
 
 ## 📌 프로젝트 소개
@@ -17,22 +14,20 @@
 * [🍕 북문 (North Gate) 맛집 리스트](./north.md)
 * [🌮 텍문 (Tech Gate) 맛집 리스트](./tech_gate.md)
 * [🍔 정문 (Main Gate) 맛집 리스트](./main_gate.md)
-* [🍜 쪽문 (South Gate) 맛집 리스트](./jjok_gate.md)
+* [🍜 쪽문 (Jjok Gate) 맛집 리스트](./jjok_gate.md)
 
 <img width="594" height="591" alt="경북대 지도" src="https://github.com/user-attachments/assets/0630665c-0919-4ed2-ac9a-a245cd5d9d78" />
 
-
-*(※ 팀원들은 각자 담당한 마크다운 파일 이름이 위 링크의 파일명과 일치하는지 확인해 주세요!)*
 
 ---
 
 ## 👥 팀원 소개 및 역할
 | 이름 | 학번 | 담당 구역 | GitHub Profile |
 | :---: | :---: | :--- | :--- |
-| 조성훈 | 2020115862 | 프로젝트 총괄 및 [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
+| 조성훈 | 2020115862 | 프로젝트 총괄 및 [텍문] 맛집 조사 | [@github-id](https://github.com/github-id) |
 | 김수하 | 2023006598 | [북문] 맛집 조사 | [@github-id](https://github.com/01064449357m-source) |
 | 최예솔 | 2025006257 | [정문] 맛집 조사 | [@github-id](https://github.com/github-id) |
-| 박정현 | 2025 | [담당 문] 맛집 조사 | [@github-id](https://github.com/github-id) |
+| 박정현 | 2025 | [쪽문] 맛집 조사 | [@github-id](https://github.com/github-id) |
 
 
 ---
