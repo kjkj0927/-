@@ -28,6 +28,8 @@
 # 1. 찬누리식당
 
 ![찬누리식당](https://github.com/user-attachments/assets/04b99819-73bb-46a3-bfe3-93d537c5aa61)
+![KakaoTalk_20260406_215411886_02](https://github.com/user-attachments/assets/28e04c98-b56c-4dfc-8819-cb7a02d2d8c8)
+
 
 | 정보 | 내용 |
 |-----|-----|
@@ -57,6 +59,8 @@
 # 2. 선희네밥상
 
 ![선희네밥상](https://github.com/user-attachments/assets/6baca1fb-645d-498a-91a4-e35ae6c2faf0)
+![고추장불고기](https://github.com/user-attachments/assets/33f5b8d5-abbb-4cc1-be18-6e7e026bda00)
+
 
 | 정보 | 내용 |
 |-----|-----|
@@ -86,6 +90,8 @@
 # 3. 우즈카츠
 
 ![우즈카츠](https://github.com/user-attachments/assets/17628bdc-aad1-4d12-879f-c68f207563ef)
+![모듬카츠](https://github.com/user-attachments/assets/d4f63ce9-f0c9-4706-aa58-5aff94071141)
+
 
 | 정보 | 내용 |
 |-----|-----|
@@ -115,6 +121,7 @@
 
 # 4. 황금성
 
+![쟁반짜장](https://github.com/user-attachments/assets/e1045d76-85f1-4600-b3d6-7c6db9e72805)
 ![황금성](https://github.com/user-attachments/assets/207a2d1a-aa7b-4b1b-947f-8fa77c137c5e)
 
 | 정보 | 내용 |
@@ -146,6 +153,8 @@
 # 5. 지구인클럽 돈까스
 
 ![지구인클럽](https://github.com/user-attachments/assets/b379ed69-481c-4b65-a111-6d781849527c)
+![치즈카츠](https://github.com/user-attachments/assets/1998f271-2fa5-4ac3-98df-5a6508ebfe2c)
+
 
 | 정보 | 내용 |
 |-----|-----|
@@ -156,7 +165,7 @@
 
 ### ⭐ 인기 메뉴
 - 매콤 돈까스
-- 매콤 치킨까스
+- 매콤 치즈까스
 
 ### 💰 가격대
 9천원대
